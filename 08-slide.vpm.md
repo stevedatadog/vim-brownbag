@@ -5,4 +5,4 @@ Examples
 
 fl: move the cursor to the next l character
 
-3yw: copy the next copy the next 3 words
+3yw: copy the next 3 words
